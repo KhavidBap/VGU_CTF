@@ -13,3 +13,5 @@ permutation = [2, 0, 1]
 
 unscrambled = unscramble(scrambled, permutation)
 print(unscrambled)
+
+# Congratulations! You got the flag. The flag is CYPHER{1_7H0UGH7_7R4N5P051710N_W4S_345Y}
